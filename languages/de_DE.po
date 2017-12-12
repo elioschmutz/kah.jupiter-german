@@ -4,7 +4,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"PO-Revision-Date: 2017-12-11 22:18+0000\n"
+"PO-Revision-Date: 2017-12-12 13:01+0000\n"
 "Last-Translator: Elio Schmutz <info@kultagentur-hauta.ch>\n"
 "Language-Team: German\n"
 "X-Poedit-Basepath: ..\n"
@@ -4059,11 +4059,6 @@ msgstr ""
 #: ../components/shortcodes/mk_page_section/vc_map.php:526
 msgid "Scroll to Bottom Arrow"
 msgstr ""
-
-#: ../components/shortcodes/mk_employees/components/social.php:12,
-#: ../views/singular/wp-single-employees.php:39
-msgid "Get In Touch With"
-msgstr "Setze dich mit mir in Verbindung"
 
 #: ../components/shortcodes/mk_employees/components/social.php:15,
 #: ../components/shortcodes/mk_employees/components/social.php:18,
@@ -13612,11 +13607,6 @@ msgctxt "column name"
 msgid "News Name"
 msgstr ""
 
-#: ../framework/custom-post-types/config.php:363,
-#: ../framework/custom-post-types/config.php:451
-msgid "Categories"
-msgstr "Kategorien"
-
 #: ../framework/custom-post-types/config.php:425
 msgctxt "URL slug"
 msgid "$portfolio_slug"
@@ -15964,10 +15954,6 @@ msgstr ""
 msgid "Search site"
 msgstr ""
 
-#: ../views/blog/components/blog-similar-posts.php:95
-msgid "Recent Posts"
-msgstr "Neuste Beiträge"
-
 #: ../views/blog/components/blog-single-about-author.php:20
 msgid "About"
 msgstr ""
@@ -15976,10 +15962,6 @@ msgstr ""
 msgid "Follow me on Twitter"
 msgstr ""
 
-#: ../views/blog/components/blog-single-about-author.php:31
-msgid "Get in touch with me via email"
-msgstr "Setze dich mit mir per Email in Verbindung"
-
 #: ../views/blog/components/blog-single-about-author.php:35
 msgid "Follow me on Facebook"
 msgstr ""
@@ -15987,12 +15969,6 @@ msgstr ""
 #: ../views/blog/components/blog-single-about-author.php:39
 msgid "Follow me on Google+"
 msgstr ""
-
-#: ../views/blog/components/blog-single-bold-share.php:20,
-#: ../views/blog/components/blog-single-meta.php:62,
-#: ../views/singular/wp-single-news.php:7
-msgid "Print"
-msgstr "Drucken"
 
 #: ../views/blog/components/blog-single-content.php:21,
 #: ../views/singular/wp-page.php:27
@@ -16565,12 +16541,6 @@ msgstr ""
 msgid "N/A"
 msgstr ""
 
-#: ../woocommerce/content-single-product.php:101
-msgid "Category:"
-msgid_plural "Categories:"
-msgstr[0] "Kategorie:"
-msgstr[1] "Kategorien:"
-
 #: ../woocommerce/content-single-product.php:102
 msgid "Tag:"
 msgid_plural "Tags:"
@@ -16688,7 +16658,7 @@ msgstr ""
 
 #: ../woocommerce/myaccount/form-lost-password.php:59
 msgid "Reset Password"
-msgstr ""
+msgstr "Passwort zurücksetzten"
 
 #: ../woocommerce/order/form-tracking.php:17
 msgid ""
@@ -16737,6 +16707,36 @@ msgstr ""
 #: ../woocommerce/single-product/up-sells.php:37
 msgid "You may also like&hellip;"
 msgstr ""
+
+#: ../components/shortcodes/mk_employees/components/social.php:12,
+#: ../views/singular/wp-single-employees.php:39
+msgid "Get In Touch With"
+msgstr "Setze dich mit mir in Verbindung"
+
+#: ../framework/custom-post-types/config.php:363,
+#: ../framework/custom-post-types/config.php:451
+msgid "Categories"
+msgstr "Kategorien"
+
+#: ../views/blog/components/blog-similar-posts.php:95
+msgid "Recent Posts"
+msgstr "Neuste Beiträge"
+
+#: ../views/blog/components/blog-single-about-author.php:31
+msgid "Get in touch with me via email"
+msgstr "Setze dich mit mir per Email in Verbindung"
+
+#: ../views/blog/components/blog-single-bold-share.php:20,
+#: ../views/blog/components/blog-single-meta.php:62,
+#: ../views/singular/wp-single-news.php:7
+msgid "Print"
+msgstr "Drucken"
+
+#: ../woocommerce/content-single-product.php:101
+msgid "Category:"
+msgid_plural "Categories:"
+msgstr[0] "Kategorie:"
+msgstr[1] "Kategorien:"
 
 #: ../comments.php:109,
 #: ../components/shortcodes/mk_contact_form/styles/corporate.php:20,
