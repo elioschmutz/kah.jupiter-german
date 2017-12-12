@@ -4,8 +4,8 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"PO-Revision-Date: 2017-12-12 13:01+0000\n"
-"Last-Translator: Elio Schmutz <info@kultagentur-hauta.ch>\n"
+"PO-Revision-Date: 2017-12-12 13:35+0000\n"
+"Last-Translator: admin <admin@kultagentur-hauta.ch>\n"
 "Language-Team: German\n"
 "X-Poedit-Basepath: ..\n"
 "X-Poedit-SourceCharset: UTF-8\n"
@@ -352,7 +352,7 @@ msgstr ""
 #: ../woocommerce/myaccount/form-login.php:48,
 #: ../woocommerce/myaccount/form-login.php:98
 msgid "Password"
-msgstr ""
+msgstr "Passwort"
 
 #: ../bbpress/form-user-login.php:28
 msgid "Keep me signed in"
@@ -16656,10 +16656,6 @@ msgstr ""
 msgid "Enter a new password below."
 msgstr ""
 
-#: ../woocommerce/myaccount/form-lost-password.php:59
-msgid "Reset Password"
-msgstr "Passwort zurücksetzten"
-
 #: ../woocommerce/order/form-tracking.php:17
 msgid ""
 "To track your order please enter your Order ID in the box below and press "
@@ -16707,6 +16703,10 @@ msgstr ""
 #: ../woocommerce/single-product/up-sells.php:37
 msgid "You may also like&hellip;"
 msgstr ""
+
+#: ../woocommerce/myaccount/form-lost-password.php:59
+msgid "Reset Password"
+msgstr "Passwort zurücksetzten"
 
 #: ../components/shortcodes/mk_employees/components/social.php:12,
 #: ../views/singular/wp-single-employees.php:39
